@@ -1,0 +1,5 @@
+Escribo texto en el fichero, con fprintf.
+
+Añado texto en el fichero usando el modo a.
+
+Leo el contenido del texto usando r.
